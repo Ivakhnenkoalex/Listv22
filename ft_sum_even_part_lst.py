@@ -2,7 +2,7 @@ def ft_len(str):
     l = 0
     for i in str:
         l += 1
-    return (l)
+    return l
 
 
 def ft_sum_even_lst(lst):
