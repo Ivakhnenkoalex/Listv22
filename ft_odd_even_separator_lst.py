@@ -10,7 +10,7 @@ def ft_odd_even_separator_lst(lst):
     i = 0
     r1 = []
     r2 = []
-    rk = [[0],[0]]
+    rk = [[0], [0]]
     while d > i:
         if lst[i] % 2 == 0:
             r1.append(lst[i])

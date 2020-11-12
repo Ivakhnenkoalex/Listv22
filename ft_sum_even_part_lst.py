@@ -5,7 +5,7 @@ def ft_len(str):
     return l
 
 
-def ft_sum_even_lst(lst):
+def ft_sum_even_part_lst(lst):
     d = ft_len(lst)
     i = 0
     r = 0

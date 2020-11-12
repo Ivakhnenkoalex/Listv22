@@ -11,7 +11,7 @@ def ft_odd_even_separator_lst(lst):
     r1 = []
     r2 = []
     r3 = []
-    rk = [[0],[0]]
+    rk = [[0], [0]]
     while d > i:
         if lst[i] > 0:
             r1.append(lst[i])

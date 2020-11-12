@@ -50,5 +50,4 @@ def ft_pos_neg_analysis_lst(lst):
           "Сумма цифр:{},\tСумма цифр:{},"
           "Среднее значение:{}\tСреднее значение:{}"
           ""
-          "Количество нулей:{}".format(lst1,lst0,k2,k1,mx1,mx2,mn1,mn2,sum1,sum2,sr1,sr2,ko))
-        
+          "Количество нулей:{}".format(lst1, lst0, k2, k1, mx1, mx2, mn1, mn2, sum1, sum2, sr1, sr2, ko))
