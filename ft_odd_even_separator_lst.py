@@ -17,6 +17,6 @@ def ft_odd_even_separator_lst(lst):
         elif lst[i] % 2 != 0:
             r2.append(lst[i])
         i = i + 1
-    rk[0] = r2
-    rk[1] = r1
+    rk[1] = r2
+    rk[0] = r1
     return rk

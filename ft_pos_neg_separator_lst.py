@@ -5,13 +5,13 @@ def ft_len(str):
     return a
 
 
-def ft_odd_even_separator_lst(lst):
+def ft_pos_neg_separator_lst(lst):
     d = ft_len(lst)
     i = 0
     r1 = []
     r2 = []
     r3 = []
-    rk = [[0], [0]]
+    rk = [[0], [0], [0]]
     while d > i:
         if lst[i] > 0:
             r1.append(lst[i])
